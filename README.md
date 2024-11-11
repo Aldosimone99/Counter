@@ -10,5 +10,5 @@ This project allows you to use a simple counter.
 - **JAVASCRIPT**
 
 ## Website to try
-https://aldosimone99.github.io/Counter/
-https://super-alfajores-057014.netlify.app/ (alternative link)
+https://aldosimone99.github.io/Counter/ OR 
+https://super-alfajores-057014.netlify.app/ 
